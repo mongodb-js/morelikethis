@@ -12,7 +12,7 @@ schema to a data generation template.
 #### Example
 
 Install [morelikethis][morelikethis], [mongodb-schema][mongodb-schema],
-and [mgenerate.js][mgeneratejs]:
+and [mgeneratejs][mgeneratejs]:
 
 ```
 npm -g morelikethis mongodb-schema mgeneratejs

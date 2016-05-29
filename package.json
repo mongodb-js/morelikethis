@@ -1,6 +1,6 @@
 {
   "name": "morelikethis",
-  "description": "Convert MongoDB Compass schema mgenerate script.",
+  "description": "Create more data that has the same shape as existing data.",
   "version": "0.1.0",
   "scripts": {
     "fmt": "mongodb-js-fmt",
