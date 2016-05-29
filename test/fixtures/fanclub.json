@@ -1,0 +1,2716 @@
+{
+  "count": 100,
+  "fields": [
+    {
+      "name": "_id",
+      "path": "_id",
+      "count": 100,
+      "type": "ObjectID",
+      "probability": 1,
+      "unique": 100,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "ObjectID",
+          "count": 100,
+          "path": "_id",
+          "has_duplicates": false,
+          "probability": 1,
+          "unique": 100,
+          "values": [
+            {
+              "$oid": "50317eb6d28ab040978820e7"
+            },
+            {
+              "$oid": "52f103f7d28ab040948a056b"
+            },
+            {
+              "$oid": "518afb5cd28ab0409588afb2"
+            },
+            {
+              "$oid": "50915bf7d28ab04094890af9"
+            },
+            {
+              "$oid": "518f859bd28ab04094896a84"
+            },
+            {
+              "$oid": "51d2682ed28ab040958a6d83"
+            },
+            {
+              "$oid": "5085d487d28ab0409488563f"
+            },
+            {
+              "$oid": "53f80d4dd28ab04096884ad8"
+            },
+            {
+              "$oid": "524bc980d28ab04095883e2f"
+            },
+            {
+              "$oid": "525d232ad28ab0409487dc55"
+            },
+            {
+              "$oid": "527e82f1d28ab04095884033"
+            },
+            {
+              "$oid": "54c91ed9d28ab0409589e78b"
+            },
+            {
+              "$oid": "506d973fd28ab0409489e1cc"
+            },
+            {
+              "$oid": "52e14579d28ab0409688efb4"
+            },
+            {
+              "$oid": "504d616cd28ab040968783f9"
+            },
+            {
+              "$oid": "542b31c0d28ab0409788645b"
+            },
+            {
+              "$oid": "52d3defdd28ab0409589d33c"
+            },
+            {
+              "$oid": "50930ed2d28ab0409686e190"
+            },
+            {
+              "$oid": "513f25f7d28ab0409786d73c"
+            },
+            {
+              "$oid": "511226b7d28ab0409687925e"
+            },
+            {
+              "$oid": "51e19551d28ab04094880466"
+            },
+            {
+              "$oid": "52039b14d28ab0409489856f"
+            },
+            {
+              "$oid": "510aee4dd28ab04096896a1a"
+            },
+            {
+              "$oid": "52b4e913d28ab0409486d82f"
+            },
+            {
+              "$oid": "511346cfd28ab0409486b7ed"
+            },
+            {
+              "$oid": "52e98348d28ab0409689921e"
+            },
+            {
+              "$oid": "53938b52d28ab0409789cf37"
+            },
+            {
+              "$oid": "50f68916d28ab0409787c80e"
+            },
+            {
+              "$oid": "50a036d1d28ab0409686f672"
+            },
+            {
+              "$oid": "531f96c4d28ab04094880d91"
+            },
+            {
+              "$oid": "507b03fcd28ab0409786eaa8"
+            },
+            {
+              "$oid": "51582f1cd28ab04096886cbf"
+            },
+            {
+              "$oid": "514ad997d28ab04094890429"
+            },
+            {
+              "$oid": "51674480d28ab0409488cbb3"
+            },
+            {
+              "$oid": "51e48e91d28ab0409586deb1"
+            },
+            {
+              "$oid": "53ba853cd28ab0409788acf2"
+            },
+            {
+              "$oid": "51e75971d28ab0409787fbf8"
+            },
+            {
+              "$oid": "52fbd56ed28ab04096884256"
+            },
+            {
+              "$oid": "5106cf8ad28ab040948a6201"
+            },
+            {
+              "$oid": "530a208ed28ab0409486d92e"
+            },
+            {
+              "$oid": "52291572d28ab040948766b0"
+            },
+            {
+              "$oid": "5221755bd28ab040948759f2"
+            },
+            {
+              "$oid": "51d4a186d28ab040948723da"
+            },
+            {
+              "$oid": "544f3e42d28ab04095891f28"
+            },
+            {
+              "$oid": "52989d6cd28ab0409787a2a7"
+            },
+            {
+              "$oid": "5133da44d28ab0409689af14"
+            },
+            {
+              "$oid": "54c6a66bd28ab0409589f788"
+            },
+            {
+              "$oid": "5301b81ed28ab0409588fd32"
+            },
+            {
+              "$oid": "50de219ad28ab0409588be23"
+            },
+            {
+              "$oid": "5277e608d28ab040968801b2"
+            },
+            {
+              "$oid": "52e22ed4d28ab04094895edc"
+            },
+            {
+              "$oid": "52d2c36dd28ab04095886eda"
+            },
+            {
+              "$oid": "5084baf1d28ab0409686d888"
+            },
+            {
+              "$oid": "536ef37ad28ab040948a1ba9"
+            },
+            {
+              "$oid": "553737bcd28ab04095873a6a"
+            },
+            {
+              "$oid": "5288c1f3d28ab0409586c4e8"
+            },
+            {
+              "$oid": "53a8998ed28ab040958a7e1b"
+            },
+            {
+              "$oid": "51e5c93fd28ab040978839bf"
+            },
+            {
+              "$oid": "553cde59d28ab0409688d187"
+            },
+            {
+              "$oid": "5043782ed28ab0409787c973"
+            },
+            {
+              "$oid": "5105bccfd28ab0409487cd41"
+            },
+            {
+              "$oid": "5087529fd28ab040968a65f1"
+            },
+            {
+              "$oid": "5269232fd28ab040968742e4"
+            },
+            {
+              "$oid": "550d4a4cd28ab040948a0f74"
+            },
+            {
+              "$oid": "5127faffd28ab0409586e6c4"
+            },
+            {
+              "$oid": "515453f9d28ab04097891cb5"
+            },
+            {
+              "$oid": "53e75ad4d28ab040948a2b5f"
+            },
+            {
+              "$oid": "53085eafd28ab0409586bfcf"
+            },
+            {
+              "$oid": "54b3723cd28ab040968a1c66"
+            },
+            {
+              "$oid": "512e75a2d28ab040948a4398"
+            },
+            {
+              "$oid": "5460638ad28ab040978772ff"
+            },
+            {
+              "$oid": "53bb53bcd28ab040978789c5"
+            },
+            {
+              "$oid": "51160d7dd28ab04097873a1d"
+            },
+            {
+              "$oid": "5248de16d28ab04096891251"
+            },
+            {
+              "$oid": "51b2f681d28ab0409688bb86"
+            },
+            {
+              "$oid": "521207e9d28ab04097885ffe"
+            },
+            {
+              "$oid": "520cb4efd28ab040948829f2"
+            },
+            {
+              "$oid": "50b938d1d28ab040958a6e64"
+            },
+            {
+              "$oid": "50ecf777d28ab0409489dc8b"
+            },
+            {
+              "$oid": "552944eed28ab0409787bd4e"
+            },
+            {
+              "$oid": "5296026ad28ab040968745b9"
+            },
+            {
+              "$oid": "508716a1d28ab040958722fc"
+            },
+            {
+              "$oid": "554ac1b9d28ab0409587a25f"
+            },
+            {
+              "$oid": "5517d726d28ab0409589ce1b"
+            },
+            {
+              "$oid": "510da7d0d28ab040958854ed"
+            },
+            {
+              "$oid": "50b33623d28ab0409787102a"
+            },
+            {
+              "$oid": "50bd04d5d28ab04094889f19"
+            },
+            {
+              "$oid": "5141bc53d28ab040978a52d3"
+            },
+            {
+              "$oid": "50f9238bd28ab04097892853"
+            },
+            {
+              "$oid": "50c62d14d28ab04094882708"
+            },
+            {
+              "$oid": "52b9a201d28ab0409586d119"
+            },
+            {
+              "$oid": "52a43efed28ab04097888cc2"
+            },
+            {
+              "$oid": "535c19dbd28ab04094891501"
+            },
+            {
+              "$oid": "53aa394bd28ab0409589e87a"
+            },
+            {
+              "$oid": "50612e59d28ab04095886539"
+            },
+            {
+              "$oid": "50f4dcb5d28ab04096875096"
+            },
+            {
+              "$oid": "5079ea2dd28ab040948a0624"
+            },
+            {
+              "$oid": "51370228d28ab0409589d07a"
+            },
+            {
+              "$oid": "52530bd9d28ab0409787e13d"
+            },
+            {
+              "$oid": "5175fc2fd28ab040958a3af7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "address",
+      "path": "address",
+      "count": 100,
+      "type": "Document",
+      "probability": 1,
+      "unique": 0,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "Document",
+          "count": 100,
+          "path": "address",
+          "has_duplicates": false,
+          "modelType": "Document",
+          "probability": 1,
+          "fields": [
+            {
+              "name": "city",
+              "path": "address.city",
+              "count": 100,
+              "type": "String",
+              "probability": 1,
+              "unique": 67,
+              "has_duplicates": true,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "String",
+                  "count": 100,
+                  "path": "address.city",
+                  "has_duplicates": true,
+                  "probability": 1,
+                  "unique": 67,
+                  "values": [
+                    "Oklahoma City, Oklahoma",
+                    "Omaha, Nebraska",
+                    "Hialeah, Florida",
+                    "Durham, North Carolina",
+                    "Columbus, Ohio",
+                    "Reno, Nevada",
+                    "New York, New York",
+                    "Denver, Colorado",
+                    "Seattle, Washington",
+                    "Seattle, Washington",
+                    "North Hempstead, New York",
+                    "Indianapolis, Indiana",
+                    "Akron, Ohio",
+                    "Henderson, Nevada",
+                    "Memphis, Tennessee",
+                    "Austin, Texas",
+                    "Durham, North Carolina",
+                    "Jacksonville, Florida",
+                    "Montgomery, Alabama",
+                    "Laredo, Texas",
+                    "Modesto, California",
+                    "Fort Worth, Texas",
+                    "Las Vegas, Nevada",
+                    "Akron, Ohio",
+                    "Austin, Texas",
+                    "Stockton, California",
+                    "Arlington, Texas",
+                    "Boise, Idaho",
+                    "Colorado Springs, Colorado",
+                    "Long Beach, California",
+                    "Boise, Idaho",
+                    "Cincinnati, Ohio",
+                    "Philadelphia, Pennsylvania",
+                    "Cincinnati, Ohio",
+                    "Virginia Beach, Virginia",
+                    "Portland, Oregon",
+                    "Baton Rouge, Louisiana",
+                    "Arlington, Texas",
+                    "Oakland, California",
+                    "Washington, District of Columbia",
+                    "Huntington, New York",
+                    "Newark, New Jersey",
+                    "Philadelphia, Pennsylvania",
+                    "Montgomery, Alabama",
+                    "Columbus, Ohio",
+                    "Nashville-Davidson, Tennessee",
+                    "Toledo, Ohio",
+                    "Sacramento, California",
+                    "Fort Worth, Texas",
+                    "New Orleans, Louisiana",
+                    "Stockton, California",
+                    "Phoenix, Arizona",
+                    "Chesapeake, Virginia",
+                    "New Orleans, Louisiana",
+                    "Santa Ana, California",
+                    "Buffalo, New York",
+                    "Detroit, Michigan",
+                    "Denver, Colorado",
+                    "Anchorage, Alaska",
+                    "Sacramento, California",
+                    "San Francisco, California",
+                    "Greensboro, North Carolina",
+                    "Virginia Beach, Virginia",
+                    "Indianapolis, Indiana",
+                    "Durham, North Carolina",
+                    "Birmingham, Alabama",
+                    "Atlanta, Georgia",
+                    "Virginia Beach, Virginia",
+                    "Riverside, California",
+                    "Lincoln, Nebraska",
+                    "St. Paul, Minnesota",
+                    "Mesa, Arizona",
+                    "Chicago, Illinois",
+                    "Lubbock, Texas",
+                    "Oklahoma City, Oklahoma",
+                    "Boston, Massachusetts",
+                    "Fort Wayne, Indiana",
+                    "Jersey City, New Jersey",
+                    "Milwaukee, Wisconsin",
+                    "Washington, District of Columbia",
+                    "Chula Vista, California",
+                    "Plano, Texas",
+                    "Scottsdale, Arizona",
+                    "San Antonio, Texas",
+                    "Arlington, Texas",
+                    "Corpus Christi, Texas",
+                    "Henderson, Nevada",
+                    "Minneapolis, Minnesota",
+                    "Fort Wayne, Indiana",
+                    "Jersey City, New Jersey",
+                    "Chandler, Arizona",
+                    "Chesapeake, Virginia",
+                    "Chandler, Arizona",
+                    "Omaha, Nebraska",
+                    "Riverside, California",
+                    "New Orleans, Louisiana",
+                    "Sacramento, California",
+                    "Chesapeake, Virginia",
+                    "Garland, Texas",
+                    "Fort Worth, Texas"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "country",
+              "path": "address.country",
+              "count": 100,
+              "type": "String",
+              "probability": 1,
+              "unique": 5,
+              "has_duplicates": true,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "String",
+                  "count": 100,
+                  "path": "address.country",
+                  "has_duplicates": true,
+                  "probability": 1,
+                  "unique": 5,
+                  "values": [
+                    "UK",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "Germany",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "UK",
+                    "UK",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "Germany",
+                    "UK",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "USA",
+                    "Australia",
+                    "Australia",
+                    "USA",
+                    "Germany",
+                    "USA",
+                    "France",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "UK",
+                    "UK",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "UK",
+                    "USA",
+                    "France",
+                    "Australia",
+                    "France",
+                    "France",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "Germany",
+                    "USA",
+                    "USA",
+                    "USA",
+                    "France",
+                    "USA",
+                    "USA",
+                    "France",
+                    "USA",
+                    "France",
+                    "USA",
+                    "France",
+                    "USA",
+                    "France"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "postal_code",
+              "path": "address.postal_code",
+              "count": 100,
+              "type": [
+                "String",
+                "Number"
+              ],
+              "probability": 1,
+              "unique": 100,
+              "has_duplicates": false,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "String",
+                  "count": 80,
+                  "path": "address.postal_code",
+                  "has_duplicates": false,
+                  "probability": 0.8,
+                  "unique": 80,
+                  "values": [
+                    "93938",
+                    "34421",
+                    "73388-2257",
+                    "98988",
+                    "82118",
+                    "90703",
+                    "79372",
+                    "54399",
+                    "13198",
+                    "71555",
+                    "73629",
+                    "83706",
+                    "60991",
+                    "66288-7496",
+                    "33608",
+                    "37330",
+                    "28374",
+                    "72700",
+                    "10227",
+                    "59164",
+                    "82895",
+                    "81243",
+                    "38969",
+                    "32811",
+                    "27331",
+                    "67206-3627",
+                    "71431",
+                    "76352",
+                    "72140-3034",
+                    "43695",
+                    "90713",
+                    "39149",
+                    "47504-8986",
+                    "34496",
+                    "57411",
+                    "41782",
+                    "73189",
+                    "36751-3000",
+                    "13037",
+                    "46201",
+                    "79269",
+                    "32640",
+                    "88519",
+                    "28845",
+                    "41054",
+                    "86915",
+                    "88451",
+                    "33032",
+                    "26345",
+                    "49208",
+                    "41585",
+                    "25925",
+                    "12404",
+                    "38721",
+                    "29119",
+                    "18174",
+                    "82131",
+                    "45885",
+                    "93415",
+                    "62121-7691",
+                    "85758",
+                    "17152",
+                    "19272",
+                    "13332",
+                    "91587",
+                    "96031",
+                    "59119",
+                    "54604",
+                    "55468",
+                    "15029",
+                    "27817",
+                    "80968",
+                    "60482",
+                    "50836",
+                    "95763",
+                    "73901",
+                    "69282",
+                    "50618",
+                    "73522",
+                    "38704"
+                  ]
+                },
+                {
+                  "name": "Number",
+                  "count": 20,
+                  "path": "address.postal_code",
+                  "has_duplicates": false,
+                  "probability": 0.2,
+                  "unique": 20,
+                  "values": [
+                    46895,
+                    36690,
+                    74801,
+                    23909,
+                    44942,
+                    27394,
+                    49928,
+                    38113,
+                    72107,
+                    41652,
+                    84847,
+                    55527,
+                    63510,
+                    24883,
+                    50441,
+                    13321,
+                    67651,
+                    12771,
+                    50690,
+                    91534
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "street",
+              "path": "address.street",
+              "count": 100,
+              "type": "String",
+              "probability": 1,
+              "unique": 100,
+              "has_duplicates": false,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "String",
+                  "count": 100,
+                  "path": "address.street",
+                  "has_duplicates": false,
+                  "probability": 1,
+                  "unique": 100,
+                  "values": [
+                    "398 East Smith Ave",
+                    "126 South Leo St",
+                    "48 Northeast Coral Rd",
+                    "17 Driftwood St",
+                    "22 North Marion St",
+                    "42 Cafe on the Ave",
+                    "87 South Hazel Rd",
+                    "388 Northeast Blackster Rd",
+                    "84 Kotschevar Ln",
+                    "224 South Augusta St",
+                    "341 Lockwood Blvd",
+                    "324 Northwest Culbertson Ave",
+                    "323 Forest Dell St",
+                    "372 Waverly St",
+                    "369 Greening Rd",
+                    "298 Northeast Knight Ave",
+                    "383 South Myrtle Ave",
+                    "338 Appleton Blvd",
+                    "90 Mercerwood Ave",
+                    "317 West Valley Rd",
+                    "42 Puget Ave",
+                    "377 South Americus St",
+                    "116 West Lost Lake St",
+                    "201 Northeast Brackenwood Ave",
+                    "97 South Perry Rd",
+                    "91 Northeast Spruce Rd",
+                    "10 Highland Park Ave",
+                    "181 Spring St",
+                    "341 Shore Ave",
+                    "89 South Washington St",
+                    "268 Marion Ave",
+                    "289 Dawn Pkwy",
+                    "46 Kulshan St",
+                    "148 South Bond Ave",
+                    "112 Southwest Atlantic Blvd",
+                    "125 Dock Ave",
+                    "358 Northeast Marketplace Rd",
+                    "267 Ohde St",
+                    "9 Northeast Keswick St",
+                    "284 Erie St",
+                    "182 Erben St",
+                    "194 West Argand St",
+                    "157 Taylor Rd",
+                    "49 West John Rd",
+                    "123 Old Railroad Grade Ln",
+                    "377 South Vale Ln",
+                    "382 Cowlitz Rd",
+                    "235 South Glacier Rd",
+                    "309 Northwest Juniper St",
+                    "353 Ferncroft St",
+                    "397 East Pike St",
+                    "296 South Willow St",
+                    "42 Forbes Creek St",
+                    "118 Fales Rd",
+                    "78 Blanche Ave",
+                    "210 South Portland St",
+                    "274 Jonathan Ln",
+                    "333 Southwest Kenyon St",
+                    "81 Southwest Jacobsen Rd",
+                    "100 Shanti Rd",
+                    "213 Rose Point Ave",
+                    "335 Lake Dell Ave",
+                    "298 South Hardy Ave",
+                    "1 Carmichael Ave",
+                    "286 Ben Howard St",
+                    "217 South Burns St",
+                    "135 Northeast Pacific Rd",
+                    "255 Southeast Colvos Ave",
+                    "148 Elliott St",
+                    "31 Woodlake St",
+                    "368 South Bond Pkwy",
+                    "325 Weiland Ave",
+                    "331 Spring Tree St",
+                    "397 Southwest Normandy Ln",
+                    "248 Northside St",
+                    "170 Southeast Fragaria Rd",
+                    "172 Balder St",
+                    "42 Northeast Georgia Ln",
+                    "84 South Trenton Blvd",
+                    "241 West Fort Ave",
+                    "371 Northeast Killian St",
+                    "234 Southeast Kinsey Ave",
+                    "120 Sealth Ave",
+                    "275 Northeast Day Rd",
+                    "381 Timber Ave",
+                    "119 North Canal Pkwy",
+                    "35 Beach Rd",
+                    "212 Northeast Noble St",
+                    "67 South Cambridge Ave",
+                    "160 East Eugene St",
+                    "146 Southwest Donovan Rd",
+                    "238 East North Ave",
+                    "170 Baker Rd",
+                    "94 Old Railroad Grade St",
+                    "53 Southwest Luana St",
+                    "40 Monte Villa Ave",
+                    "196 Southwest Sullivan Rd",
+                    "256 Royal Anne Ave",
+                    "174 Nels Berglund Rd",
+                    "314 West Valley Ave"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "age",
+      "path": "age",
+      "count": 66,
+      "type": [
+        "Number",
+        "Undefined"
+      ],
+      "probability": 0.66,
+      "unique": 33,
+      "has_duplicates": true,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "Number",
+          "count": 66,
+          "path": "age",
+          "has_duplicates": true,
+          "probability": 0.66,
+          "unique": 33,
+          "values": [
+            35,
+            22,
+            36,
+            34,
+            52,
+            25,
+            30,
+            44,
+            29,
+            23,
+            29,
+            29,
+            30,
+            35,
+            34,
+            32,
+            42,
+            31,
+            33,
+            16,
+            38,
+            38,
+            36,
+            38,
+            37,
+            26,
+            33,
+            33,
+            42,
+            30,
+            37,
+            19,
+            34,
+            53,
+            19,
+            53,
+            11,
+            27,
+            20,
+            29,
+            43,
+            32,
+            43,
+            29,
+            37,
+            30,
+            42,
+            37,
+            27,
+            14,
+            41,
+            41,
+            18,
+            42,
+            54,
+            34,
+            32,
+            42,
+            36,
+            54,
+            40,
+            15,
+            9,
+            51,
+            49,
+            41
+          ]
+        },
+        {
+          "name": "Undefined",
+          "count": 34,
+          "path": "age",
+          "has_duplicates": true,
+          "probability": 0.34,
+          "unique": 0
+        }
+      ]
+    },
+    {
+      "name": "email",
+      "path": "email",
+      "count": 100,
+      "type": "String",
+      "probability": 1,
+      "unique": 100,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "String",
+          "count": 100,
+          "path": "email",
+          "has_duplicates": false,
+          "probability": 1,
+          "unique": 100,
+          "values": [
+            "bearhugs93@yahoo.com",
+            "cyberking54@msn.com",
+            "buttercup64@verizon.net",
+            "smartgeek40@aim.com",
+            "whackattack53@yahoo.com",
+            "candycane24@msn.com",
+            "twinbutterfly58@verizon.net",
+            "dovegirl59@comcast.net",
+            "doll99@aim.com",
+            "snowflakes17@aim.com",
+            "beautiful11@icloud.com",
+            "mr.america58@yahoo.com",
+            "bubblegum96@gmx.net",
+            "divahot6@verizon.net",
+            "hockeywain76@msn.com",
+            "dimples31@verizon.net",
+            "mencity10@msn.com",
+            "divahot68@icloud.com",
+            "lamb34@gmail.com",
+            "dollyhitchhiker70@aim.com",
+            "coolguy80@gmail.com",
+            "whackattack73@yahoo.com",
+            "doll18@msn.com",
+            "munchkin21@comcast.net",
+            "heavenlybeliever45@comcast.net",
+            "theprophet44@hotmail.com",
+            "bubbles13@verizon.net",
+            "butterscotch59@gmail.com",
+            "blackhawk82@gmail.com",
+            "cutie72@gmail.com",
+            "couchking54@gmail.com",
+            "enchanted45@icloud.com",
+            "technophyle35@gmail.com",
+            "bliss10@icloud.com",
+            "jaycee77@msn.com",
+            "cyberwarrior19@hotmail.com",
+            "memories58@hotmail.com",
+            "braindead68@comcast.net",
+            "hangman76@gmail.com",
+            "metalhead63@aim.com",
+            "dogbone10@comcast.net",
+            "couldnt_find_good_name19@hotmail.com",
+            "brownie15@gmx.net",
+            "dovegirl25@gmail.com",
+            "dovegirl6@gmx.net",
+            "doll12@aim.com",
+            "max17@hotmail.com",
+            "babykins59@icloud.com",
+            "emerald30@icloud.com",
+            "happinesskingdom54@hotmail.com",
+            "bubbles79@icloud.com",
+            "cutesugar10@msn.com",
+            "brownie92@comcast.net",
+            "happysky15@aim.com",
+            "neurotic12@msn.com",
+            "takeaway97@yahoo.com",
+            "veryberry48@gmx.net",
+            "enchanted74@gmail.com",
+            "candycane21@verizon.net",
+            "godfather80@yahoo.com",
+            "battledoom36@msn.com",
+            "princessbrutal74@icloud.com",
+            "mindlessbobcat13@gmx.net",
+            "cheekygirl60@icloud.com",
+            "squirrelnuts79@verizon.net",
+            "theprophet48@aim.com",
+            "popkiss74@verizon.net",
+            "shortcircuit64@msn.com",
+            "cyberking96@icloud.com",
+            "awesomegirl70@verizon.net",
+            "coolwhip89@gmx.net",
+            "dovegirl33@gmx.net",
+            "lamb24@hotmail.com",
+            "e4envy27@aim.com",
+            "buttercup54@msn.com",
+            "2star64@hotmail.com",
+            "cyberking44@gmx.net",
+            "shortcircuit35@comcast.net",
+            "cutesy51@gmail.com",
+            "beautifuldoll35@hotmail.com",
+            "dayhawk52@verizon.net",
+            "coolbubble66@msn.com",
+            "blossom86@icloud.com",
+            "sugarycake68@yahoo.com",
+            "coolwhip45@comcast.net",
+            "cutie98@msn.com",
+            "override61@icloud.com",
+            "godfather47@icloud.com",
+            "cyberking50@verizon.net",
+            "lord-voldemort97@aim.com",
+            "netfreak18@yahoo.com",
+            "beebuckshot93@comcast.net",
+            "princess62@msn.com",
+            "popkiss97@gmail.com",
+            "shortcircuit100@comcast.net",
+            "bear0@gmail.com",
+            "braindead22@gmail.com",
+            "heavenlybeliever88@icloud.com",
+            "swampmasher43@aim.com",
+            "lamb1@yahoo.com"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "favorite_features",
+      "path": "favorite_features",
+      "count": 78,
+      "type": [
+        "Array",
+        "Undefined"
+      ],
+      "probability": 0.78,
+      "unique": 0,
+      "has_duplicates": true,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "Array",
+          "count": 78,
+          "path": "favorite_features",
+          "lengths": [
+            4,
+            5,
+            1,
+            3,
+            4,
+            0,
+            3,
+            3,
+            0,
+            5,
+            3,
+            3,
+            5,
+            5,
+            1,
+            1,
+            5,
+            0,
+            4,
+            0,
+            1,
+            5,
+            1,
+            2,
+            1,
+            5,
+            0,
+            4,
+            3,
+            0,
+            2,
+            5,
+            0,
+            3,
+            1,
+            4,
+            4,
+            0,
+            5,
+            3,
+            3,
+            5,
+            4,
+            2,
+            5,
+            4,
+            5,
+            1,
+            5,
+            2,
+            2,
+            2,
+            1,
+            5,
+            4,
+            2,
+            5,
+            1,
+            3,
+            2,
+            2,
+            0,
+            5,
+            4,
+            2,
+            2,
+            2,
+            3,
+            0,
+            4,
+            5,
+            3,
+            0,
+            4,
+            4,
+            2,
+            2,
+            5
+          ],
+          "has_duplicates": false,
+          "probability": 0.78,
+          "total_count": 216,
+          "average_length": 2.769230769230769,
+          "fields": {
+            "$undefined": true
+          },
+          "types": [
+            {
+              "name": "String",
+              "count": 216,
+              "path": "favorite_features",
+              "has_duplicates": true,
+              "probability": 1,
+              "unique": 8,
+              "values": [
+                "Document Validation",
+                "Partial Indexes",
+                "Auth",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Aggregation",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Partial Indexes",
+                "Sharding",
+                "Replication",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Aggregation",
+                "Wired Tiger",
+                "Document Validation",
+                "Aggregation",
+                "Wired Tiger",
+                "Sharding",
+                "Document Validation",
+                "Wired Tiger",
+                "Document Validation",
+                "Text Search",
+                "Sharding",
+                "Aggregation",
+                "Aggregation",
+                "Partial Indexes",
+                "Wired Tiger",
+                "Sharding",
+                "Partial Indexes",
+                "Aggregation",
+                "Wired Tiger",
+                "Partial Indexes",
+                "Document Validation",
+                "Aggregation",
+                "Partial Indexes",
+                "Document Validation",
+                "Sharding",
+                "Replication",
+                "Sharding",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Wired Tiger",
+                "Aggregation",
+                "Sharding",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Auth",
+                "Partial Indexes",
+                "Wired Tiger",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Sharding",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Text Search",
+                "Partial Indexes",
+                "Document Validation",
+                "Wired Tiger",
+                "Replication",
+                "Auth",
+                "Document Validation",
+                "Wired Tiger",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Wired Tiger",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Partial Indexes",
+                "Text Search",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Aggregation",
+                "Wired Tiger",
+                "Replication",
+                "Partial Indexes",
+                "Text Search",
+                "Aggregation",
+                "Sharding",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Auth",
+                "Document Validation",
+                "Sharding",
+                "Aggregation",
+                "Document Validation",
+                "Aggregation",
+                "Text Search",
+                "Text Search",
+                "Partial Indexes",
+                "Partial Indexes",
+                "Partial Indexes",
+                "Wired Tiger",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Wired Tiger",
+                "Sharding",
+                "Replication",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Text Search",
+                "Document Validation",
+                "Aggregation",
+                "Sharding",
+                "Sharding",
+                "Aggregation",
+                "Aggregation",
+                "Auth",
+                "Sharding",
+                "Document Validation",
+                "Replication",
+                "Document Validation",
+                "Partial Indexes",
+                "Partial Indexes",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Aggregation",
+                "Document Validation",
+                "Wired Tiger",
+                "Document Validation",
+                "Partial Indexes",
+                "Auth",
+                "Document Validation",
+                "Aggregation",
+                "Document Validation",
+                "Document Validation",
+                "Aggregation",
+                "Replication",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Text Search",
+                "Document Validation",
+                "Partial Indexes",
+                "Sharding",
+                "Partial Indexes",
+                "Document Validation",
+                "Partial Indexes",
+                "Replication",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Aggregation",
+                "Document Validation",
+                "Partial Indexes",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Text Search",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Sharding",
+                "Wired Tiger",
+                "Sharding",
+                "Document Validation",
+                "Document Validation",
+                "Sharding",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Document Validation",
+                "Auth"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Undefined",
+          "count": 22,
+          "path": "favorite_features",
+          "has_duplicates": true,
+          "probability": 0.22,
+          "unique": 0
+        }
+      ]
+    },
+    {
+      "name": "gender",
+      "path": "gender",
+      "count": 86,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.86,
+      "unique": 2,
+      "has_duplicates": true,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "String",
+          "count": 86,
+          "path": "gender",
+          "has_duplicates": true,
+          "probability": 0.86,
+          "unique": 2,
+          "values": [
+            "male",
+            "male",
+            "male",
+            "female",
+            "female",
+            "female",
+            "male",
+            "female",
+            "male",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "female",
+            "male",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "male",
+            "female",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "female",
+            "female",
+            "male",
+            "female",
+            "male",
+            "male",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "male",
+            "female",
+            "female",
+            "male",
+            "male",
+            "male",
+            "male",
+            "female",
+            "female",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "female",
+            "female",
+            "male",
+            "male",
+            "female",
+            "male",
+            "female",
+            "male",
+            "male"
+          ]
+        },
+        {
+          "name": "Undefined",
+          "count": 14,
+          "path": "gender",
+          "has_duplicates": true,
+          "probability": 0.14,
+          "unique": 0
+        }
+      ]
+    },
+    {
+      "name": "last_login",
+      "path": "last_login",
+      "count": 100,
+      "type": "Date",
+      "probability": 1,
+      "unique": 100,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "Date",
+          "count": 100,
+          "path": "last_login",
+          "has_duplicates": false,
+          "probability": 1,
+          "unique": 100,
+          "values": [
+            {
+              "$date": "2013-06-14T04:41:47.000Z"
+            },
+            {
+              "$date": "2014-04-22T22:45:44.000Z"
+            },
+            {
+              "$date": "2014-05-21T00:39:49.000Z"
+            },
+            {
+              "$date": "2014-12-24T03:37:08.000Z"
+            },
+            {
+              "$date": "2010-07-10T01:03:40.000Z"
+            },
+            {
+              "$date": "2014-01-29T16:02:38.000Z"
+            },
+            {
+              "$date": "2013-12-30T00:57:22.000Z"
+            },
+            {
+              "$date": "2010-06-20T22:24:11.000Z"
+            },
+            {
+              "$date": "2013-06-05T04:55:50.000Z"
+            },
+            {
+              "$date": "2012-04-10T22:05:27.000Z"
+            },
+            {
+              "$date": "2011-09-01T07:59:21.000Z"
+            },
+            {
+              "$date": "2010-07-15T03:35:50.000Z"
+            },
+            {
+              "$date": "2011-12-10T16:36:35.000Z"
+            },
+            {
+              "$date": "2010-08-03T10:44:38.000Z"
+            },
+            {
+              "$date": "2012-12-18T15:01:58.000Z"
+            },
+            {
+              "$date": "2011-03-20T05:57:57.000Z"
+            },
+            {
+              "$date": "2012-01-25T23:28:19.000Z"
+            },
+            {
+              "$date": "2010-12-07T23:55:46.000Z"
+            },
+            {
+              "$date": "2013-10-18T00:12:23.000Z"
+            },
+            {
+              "$date": "2012-12-21T08:13:51.000Z"
+            },
+            {
+              "$date": "2012-09-22T02:24:21.000Z"
+            },
+            {
+              "$date": "2015-02-25T15:13:01.000Z"
+            },
+            {
+              "$date": "2010-09-17T04:07:27.000Z"
+            },
+            {
+              "$date": "2012-06-07T08:16:55.000Z"
+            },
+            {
+              "$date": "2012-06-04T21:35:12.000Z"
+            },
+            {
+              "$date": "2012-08-19T07:36:12.000Z"
+            },
+            {
+              "$date": "2010-06-16T11:52:01.000Z"
+            },
+            {
+              "$date": "2010-06-14T15:01:09.000Z"
+            },
+            {
+              "$date": "2013-11-30T06:40:36.000Z"
+            },
+            {
+              "$date": "2015-05-11T20:07:13.000Z"
+            },
+            {
+              "$date": "2011-08-20T19:19:50.000Z"
+            },
+            {
+              "$date": "2012-12-27T11:25:16.000Z"
+            },
+            {
+              "$date": "2012-02-03T04:24:54.000Z"
+            },
+            {
+              "$date": "2013-12-25T06:08:12.000Z"
+            },
+            {
+              "$date": "2012-05-18T08:21:02.000Z"
+            },
+            {
+              "$date": "2015-01-15T22:36:09.000Z"
+            },
+            {
+              "$date": "2013-01-18T02:39:35.000Z"
+            },
+            {
+              "$date": "2011-08-03T12:26:52.000Z"
+            },
+            {
+              "$date": "2010-08-04T20:42:59.000Z"
+            },
+            {
+              "$date": "2012-01-18T14:03:42.000Z"
+            },
+            {
+              "$date": "2012-01-15T10:18:13.000Z"
+            },
+            {
+              "$date": "2011-04-08T01:40:56.000Z"
+            },
+            {
+              "$date": "2010-11-25T09:16:05.000Z"
+            },
+            {
+              "$date": "2012-01-16T17:35:07.000Z"
+            },
+            {
+              "$date": "2012-08-02T17:41:32.000Z"
+            },
+            {
+              "$date": "2010-02-21T16:39:08.000Z"
+            },
+            {
+              "$date": "2012-11-28T21:07:01.000Z"
+            },
+            {
+              "$date": "2010-08-19T11:36:29.000Z"
+            },
+            {
+              "$date": "2014-11-14T01:57:10.000Z"
+            },
+            {
+              "$date": "2014-04-24T03:33:38.000Z"
+            },
+            {
+              "$date": "2012-04-20T14:11:41.000Z"
+            },
+            {
+              "$date": "2011-10-01T00:55:52.000Z"
+            },
+            {
+              "$date": "2015-02-15T08:55:20.000Z"
+            },
+            {
+              "$date": "2012-07-28T18:25:29.000Z"
+            },
+            {
+              "$date": "2010-01-23T19:27:25.000Z"
+            },
+            {
+              "$date": "2012-01-27T21:19:54.000Z"
+            },
+            {
+              "$date": "2015-04-25T18:01:49.000Z"
+            },
+            {
+              "$date": "2010-03-09T00:33:55.000Z"
+            },
+            {
+              "$date": "2010-10-11T14:00:03.000Z"
+            },
+            {
+              "$date": "2014-12-26T06:41:08.000Z"
+            },
+            {
+              "$date": "2011-12-23T03:37:20.000Z"
+            },
+            {
+              "$date": "2014-04-12T07:47:27.000Z"
+            },
+            {
+              "$date": "2014-01-25T13:00:56.000Z"
+            },
+            {
+              "$date": "2011-05-05T10:11:10.000Z"
+            },
+            {
+              "$date": "2011-06-02T21:44:40.000Z"
+            },
+            {
+              "$date": "2013-08-19T09:32:33.000Z"
+            },
+            {
+              "$date": "2013-01-23T11:20:30.000Z"
+            },
+            {
+              "$date": "2014-03-18T03:47:10.000Z"
+            },
+            {
+              "$date": "2014-11-01T17:33:38.000Z"
+            },
+            {
+              "$date": "2010-10-07T17:20:07.000Z"
+            },
+            {
+              "$date": "2011-03-07T05:27:49.000Z"
+            },
+            {
+              "$date": "2014-08-14T03:51:16.000Z"
+            },
+            {
+              "$date": "2013-05-22T22:24:01.000Z"
+            },
+            {
+              "$date": "2011-11-07T00:28:32.000Z"
+            },
+            {
+              "$date": "2014-10-08T02:58:39.000Z"
+            },
+            {
+              "$date": "2010-03-16T22:03:13.000Z"
+            },
+            {
+              "$date": "2013-10-18T08:47:12.000Z"
+            },
+            {
+              "$date": "2011-03-05T04:34:10.000Z"
+            },
+            {
+              "$date": "2013-02-14T12:14:59.000Z"
+            },
+            {
+              "$date": "2012-03-27T22:26:58.000Z"
+            },
+            {
+              "$date": "2011-12-03T22:14:37.000Z"
+            },
+            {
+              "$date": "2011-03-15T13:47:57.000Z"
+            },
+            {
+              "$date": "2010-08-23T21:51:30.000Z"
+            },
+            {
+              "$date": "2012-11-17T11:09:21.000Z"
+            },
+            {
+              "$date": "2010-11-24T11:50:31.000Z"
+            },
+            {
+              "$date": "2014-03-05T22:27:22.000Z"
+            },
+            {
+              "$date": "2012-12-14T11:16:31.000Z"
+            },
+            {
+              "$date": "2013-09-11T13:01:05.000Z"
+            },
+            {
+              "$date": "2012-06-24T23:59:00.000Z"
+            },
+            {
+              "$date": "2011-12-02T08:00:37.000Z"
+            },
+            {
+              "$date": "2011-05-25T07:58:27.000Z"
+            },
+            {
+              "$date": "2014-01-02T12:06:42.000Z"
+            },
+            {
+              "$date": "2014-09-08T20:24:28.000Z"
+            },
+            {
+              "$date": "2011-12-28T23:34:25.000Z"
+            },
+            {
+              "$date": "2014-08-13T19:10:50.000Z"
+            },
+            {
+              "$date": "2013-09-05T22:40:43.000Z"
+            },
+            {
+              "$date": "2011-03-01T10:35:21.000Z"
+            },
+            {
+              "$date": "2013-03-05T07:27:30.000Z"
+            },
+            {
+              "$date": "2012-02-17T21:41:15.000Z"
+            },
+            {
+              "$date": "2010-09-22T07:22:46.000Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "last_position",
+      "path": "last_position",
+      "count": 100,
+      "type": "Document",
+      "probability": 1,
+      "unique": 0,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "Document",
+          "count": 100,
+          "path": "last_position",
+          "has_duplicates": false,
+          "modelType": "Document",
+          "probability": 1,
+          "fields": [
+            {
+              "name": "coordinates",
+              "path": "last_position.coordinates",
+              "count": 100,
+              "type": "Array",
+              "probability": 1,
+              "unique": 0,
+              "has_duplicates": false,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "Array",
+                  "count": 100,
+                  "path": "last_position.coordinates",
+                  "lengths": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                  ],
+                  "has_duplicates": false,
+                  "probability": 1,
+                  "total_count": 200,
+                  "average_length": 2,
+                  "fields": {
+                    "$undefined": true
+                  },
+                  "types": [
+                    {
+                      "name": "Number",
+                      "count": 200,
+                      "path": "last_position.coordinates",
+                      "has_duplicates": false,
+                      "probability": 1,
+                      "unique": 200,
+                      "values": [
+                        118.09926065361327,
+                        -57.29679709171391,
+                        -33.57511354449326,
+                        22.32335447298047,
+                        114.03038581202588,
+                        31.302258143267508,
+                        -31.22418987708039,
+                        -6.804117556208638,
+                        -164.39746552024604,
+                        -19.52861258479092,
+                        82.74434662655773,
+                        80.4244402587463,
+                        -128.9320237232924,
+                        28.886793114428258,
+                        153.8793568555646,
+                        38.330428525539276,
+                        -168.19983930022434,
+                        72.79483418737365,
+                        -7.761003744389598,
+                        -78.93766533206993,
+                        -139.0480243417423,
+                        -79.14536099951663,
+                        148.9535395166552,
+                        -1.2237341785351816,
+                        30.28711625860555,
+                        20.499948850862197,
+                        -69.09322149017896,
+                        -67.49823329203953,
+                        6.775997965192346,
+                        -22.986449958712996,
+                        -142.40079009698923,
+                        -33.631195721976425,
+                        -115.76538944685618,
+                        -23.84258231087621,
+                        171.87139998091448,
+                        14.08016746868384,
+                        -165.37577852408916,
+                        -67.61833942628341,
+                        -40.10099113343131,
+                        40.660988306703075,
+                        -135.62721800846515,
+                        77.57675368470439,
+                        -134.27077489713562,
+                        48.548393458135166,
+                        -26.50276502156109,
+                        25.474625252157722,
+                        26.435078230518315,
+                        35.495707998068,
+                        54.05011193517353,
+                        89.80481131983933,
+                        -95.37439543788835,
+                        -68.76541975614238,
+                        -150.7754150045846,
+                        8.778705541000392,
+                        134.9832342791767,
+                        36.026383620509506,
+                        13.851865256195708,
+                        6.137806517142607,
+                        -34.18921948130438,
+                        58.509604091039705,
+                        -13.264941739344124,
+                        19.365005512631555,
+                        -163.59028544036116,
+                        -21.4833334070307,
+                        -107.01359779004949,
+                        -65.49425791019985,
+                        153.09260035159735,
+                        -3.366031136273847,
+                        -53.275087522214974,
+                        -60.62634038083405,
+                        115.94099947608265,
+                        -11.430508265918448,
+                        -147.5126549959199,
+                        -27.715700003685306,
+                        61.52872794691376,
+                        1.9031979620231567,
+                        -21.32704115557479,
+                        31.447640011199823,
+                        76.20001626935635,
+                        69.2076421808483,
+                        -93.80183405397233,
+                        -45.48472815067745,
+                        -148.67691860099737,
+                        -1.7892920899853948,
+                        152.61597981576557,
+                        -77.1604401848166,
+                        -101.54677289653051,
+                        -11.124573461974578,
+                        138.4094753893637,
+                        -24.221633994211857,
+                        -24.386417127733324,
+                        25.428478078076424,
+                        -178.06416906245167,
+                        -63.28478053317127,
+                        -130.50573672498635,
+                        -85.82293504177319,
+                        112.75185408522498,
+                        59.604310431645956,
+                        13.129687945330858,
+                        16.918359536249028,
+                        -53.144471330882766,
+                        -77.48757332890389,
+                        27.636988218027966,
+                        44.351959196994386,
+                        2.963812806576641,
+                        -53.836401226888846,
+                        53.668456530565635,
+                        2.6251187338427115,
+                        124.87807955915258,
+                        39.296507565966664,
+                        8.907946857115917,
+                        -67.76389830009177,
+                        124.33786007502079,
+                        -19.95799337156511,
+                        -97.51356489193081,
+                        -68.50289829260767,
+                        -151.96986422095637,
+                        -22.823458119073408,
+                        72.10209785548614,
+                        -63.94209633595642,
+                        145.3788925715623,
+                        69.10768246526135,
+                        94.94564178177461,
+                        54.59411521710567,
+                        -157.35779223763012,
+                        -80.3723272340396,
+                        20.257697582418615,
+                        42.9483284615051,
+                        -179.82789284514456,
+                        -38.9133234623661,
+                        -170.31364767814046,
+                        -40.02476578499103,
+                        -35.99738624754531,
+                        31.985899289309444,
+                        -176.88092468407217,
+                        78.22333427703933,
+                        -5.587554972153953,
+                        24.72974732180208,
+                        70.69625640420989,
+                        53.14468940631099,
+                        23.741866658665998,
+                        -64.59938460078286,
+                        155.23096408139526,
+                        59.88548325636211,
+                        87.52449376804435,
+                        83.4240132762881,
+                        -129.0164062915681,
+                        3.6955230177882044,
+                        -13.094171660299736,
+                        -34.289024901566485,
+                        23.87426378914506,
+                        50.680976130598225,
+                        -44.89697276813425,
+                        56.32134311127919,
+                        -167.94966766136238,
+                        15.658306188086925,
+                        -173.42380337945147,
+                        -40.95474678851078,
+                        48.00141962010025,
+                        -32.635012691224084,
+                        152.63360268540555,
+                        -8.047497449645178,
+                        171.49742229642874,
+                        -86.06268341112454,
+                        -117.48359904052265,
+                        39.29137474424337,
+                        -129.325453479111,
+                        -66.51324460116241,
+                        -128.15316261215398,
+                        -43.82166212473197,
+                        95.69397718377297,
+                        32.5462080547742,
+                        173.35350019341752,
+                        -3.8108682280639385,
+                        -177.73255800503605,
+                        -49.12981353851814,
+                        -44.76597838883788,
+                        63.93718681463409,
+                        95.72276391454687,
+                        -44.32243163146384,
+                        159.49213057746653,
+                        30.866929294272822,
+                        -165.01626361112793,
+                        42.67472890158979,
+                        -152.12322585184845,
+                        -40.97794230777925,
+                        31.90843618662467,
+                        43.87125453580458,
+                        34.356843180955906,
+                        -49.263549713945054,
+                        115.96590072141623,
+                        7.121967048166653,
+                        -100.65640118020197,
+                        -35.6379577216453,
+                        -100.42824349281348,
+                        69.85381724893702,
+                        -35.11604089363195,
+                        -64.38132017033983,
+                        -12.942763511333396,
+                        -8.279166491637085
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "type",
+              "path": "last_position.type",
+              "count": 100,
+              "type": "String",
+              "probability": 1,
+              "unique": 1,
+              "has_duplicates": true,
+              "total_count": 100,
+              "types": [
+                {
+                  "name": "String",
+                  "count": 100,
+                  "path": "last_position.type",
+                  "has_duplicates": true,
+                  "probability": 1,
+                  "unique": 1,
+                  "values": [
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point",
+                    "Point"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "membership_status",
+      "path": "membership_status",
+      "count": 100,
+      "type": "String",
+      "probability": 1,
+      "unique": 3,
+      "has_duplicates": true,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "String",
+          "count": 100,
+          "path": "membership_status",
+          "has_duplicates": true,
+          "probability": 1,
+          "unique": 3,
+          "values": [
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "INACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "INACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "INACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE",
+            "ACTIVE",
+            "PENDING",
+            "ACTIVE"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "name",
+      "path": "name",
+      "count": 100,
+      "type": "String",
+      "probability": 1,
+      "unique": 100,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "String",
+          "count": 100,
+          "path": "name",
+          "has_duplicates": false,
+          "probability": 1,
+          "unique": 100,
+          "values": [
+            "Addison S Clark",
+            "Jackson Patel",
+            "Ethan Harrison",
+            "Leah Harrison",
+            "Jackson N Walker",
+            "Chloe Harrison",
+            "Logan Z King",
+            "Audrey U Watson",
+            "Sophia Baker",
+            "Ethan M Wood",
+            "Hannah N Phillips",
+            "Matthew Davies",
+            "Grace K Davis",
+            "Aiden N Phillips",
+            "Brooklyn F Edwards",
+            "Logan G Anderson",
+            "Leah E Taylor",
+            "Natalie O Edwards",
+            "Liam R Baker",
+            "Daniel Scott",
+            "Emily Williams",
+            "Isabella V Lewis",
+            "William H Harris",
+            "Addison Hall",
+            "Aria E Robinson",
+            "Grace W Patel",
+            "Liam R Morgan",
+            "Olivia S Bell",
+            "Matthew P Anderson",
+            "Elizabeth S Harrison",
+            "Leah Smith",
+            "Harper K Allen",
+            "Zoe M Brown",
+            "Brooklyn W Lee",
+            "Lucas N Thomas",
+            "James N Harris",
+            "Scarlett L Clarke",
+            "Brooklyn Green",
+            "Aubrey K Wright",
+            "Owen Mitchell",
+            "Jacob F Clarke",
+            "Connor O James",
+            "Jackson S Hill",
+            "Jack G Williams",
+            "Lillian P Scott",
+            "Ella Z King",
+            "Riley L Walker",
+            "Joshua U Robinson",
+            "Jackson M Cooper",
+            "Liam Hill",
+            "Liam H James",
+            "Liam R Thompson",
+            "Charlotte K Green",
+            "Liam N Harrison",
+            "Lillian E Walker",
+            "Connor T Taylor",
+            "Avery R White",
+            "Daniel M Allen",
+            "Avery Watson",
+            "Harper F Clarke",
+            "Owen Bell",
+            "Emily N Baker",
+            "Logan S Watson",
+            "Sebastian Harrison",
+            "Sofia Morris",
+            "Connor M James",
+            "Connor H Lewis",
+            "Alexander Z Harrison",
+            "Riley H Taylor",
+            "Madison L Ward",
+            "Ryan K Lewis",
+            "Mason Hall",
+            "Logan White",
+            "Natalie Taylor",
+            "Claire D Cooper",
+            "Henry S Ward",
+            "Oliver Turner",
+            "Victoria R Thomas",
+            "Hannah Young",
+            "William James",
+            "Abigail H Young",
+            "Emma Watson",
+            "Evelyn W Brown",
+            "Mason D Thompson",
+            "Ryan Mitchell",
+            "Zoey White",
+            "Elijah D Patel",
+            "Grace Patel",
+            "Caleb S Walker",
+            "Landon Harrison",
+            "Lillian H Wood",
+            "Elijah C Anderson",
+            "Olivia Robinson",
+            "Isabella K Lewis",
+            "Connor O Edwards",
+            "Leah W Hill",
+            "Joshua P Turner",
+            "Chloe Lee",
+            "Amelie Clarke",
+            "Madison Mitchell"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "phone_no",
+      "path": "phone_no",
+      "count": 100,
+      "type": [
+        "String",
+        "Number"
+      ],
+      "probability": 1,
+      "unique": 100,
+      "has_duplicates": false,
+      "total_count": 100,
+      "types": [
+        {
+          "name": "String",
+          "count": 88,
+          "path": "phone_no",
+          "has_duplicates": false,
+          "probability": 0.88,
+          "unique": 88,
+          "values": [
+            "+18194770734",
+            "+49944728429",
+            "+16583005984",
+            "+14272464928",
+            "+11644866632",
+            "+15158396206",
+            "+456568763042",
+            "+446561030900",
+            "+441694394515",
+            "+445993650419",
+            "+17911842758",
+            "+61926347650",
+            "+457950479010",
+            "+446589176667",
+            "+613469939617",
+            "+446011165084",
+            "+17534878787",
+            "+453193494176",
+            "+15035653969",
+            "+13018294367",
+            "+11598399704",
+            "+13891100928",
+            "+11163209388",
+            "+496797543283",
+            "+449450919830",
+            "+17595867451",
+            "+1262244515",
+            "+16951697749",
+            "+451358276809",
+            "+17387668519",
+            "+11385718896",
+            "+17018925373",
+            "+13998815531",
+            "+456113069777",
+            "+19502518885",
+            "+13238098272",
+            "+13071545341",
+            "+618897101444",
+            "+449712423485",
+            "+16608214695",
+            "+19266404916",
+            "+12574068913",
+            "+12850514250",
+            "+19574310142",
+            "+14527962684",
+            "+452486432895",
+            "+454353300812",
+            "+454818292718",
+            "+456137791093",
+            "+12799135987",
+            "+448341066745",
+            "+1138297434",
+            "+615418125199",
+            "+1190836856",
+            "+11712474820",
+            "+459571056836",
+            "+18447833477",
+            "+14030863950",
+            "+13321441745",
+            "+449527334268",
+            "+19777853636",
+            "+14568724626",
+            "+446845722062",
+            "+16881204011",
+            "+443440154358",
+            "+12193288773",
+            "+44398738764",
+            "+18296912163",
+            "+449748624767",
+            "+17033495697",
+            "+611759528341",
+            "+447920966089",
+            "+456436169830",
+            "+496144743088",
+            "+15953990468",
+            "+18132692676",
+            "+11437525183",
+            "+444777169415",
+            "+19361801841",
+            "+12038969602",
+            "+17091835032",
+            "+15162409956",
+            "+18168316778",
+            "+19590371035",
+            "+16299813635",
+            "+12498017313",
+            "+19378441730",
+            "+12107839662"
+          ]
+        },
+        {
+          "name": "Number",
+          "count": 12,
+          "path": "phone_no",
+          "has_duplicates": false,
+          "probability": 0.12,
+          "unique": 12,
+          "values": [
+            5456194080,
+            1651190690,
+            3709926734,
+            5283430639,
+            2829904193,
+            7356201110,
+            5982265730,
+            7558512237,
+            4645743681,
+            1771632122,
+            5798329527,
+            9076133171
+          ]
+        }
+      ]
+    }
+  ]
+}
