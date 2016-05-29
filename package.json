@@ -1,12 +1,15 @@
 {
   "name": "morelikethis",
   "description": "Convert MongoDB Compass schema mgenerate script.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "fmt": "mongodb-js-fmt",
     "check": "mongodb-js-precommit",
     "test": "mocha",
     "ci": "npm run check && npm test"
+  },
+  "bin": {
+    "morelikethis": "./bin/morelikethis.js"
   },
   "homepage": "http://github.com/mongodb-js/morelikethis",
   "repository": {
