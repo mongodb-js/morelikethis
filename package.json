@@ -1,7 +1,7 @@
 {
   "name": "morelikethis",
   "description": "Create more data that has the same shape as existing data.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "fmt": "mongodb-js-fmt",
     "check": "mongodb-js-precommit",
