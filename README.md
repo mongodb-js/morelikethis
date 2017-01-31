@@ -15,7 +15,7 @@ Install [morelikethis][morelikethis], [mongodb-schema][mongodb-schema],
 and [mgeneratejs][mgeneratejs]:
 
 ```
-npm -g morelikethis mongodb-schema mgeneratejs
+npm install -g morelikethis mongodb-schema mgeneratejs
 ```
 
 Make sure you have a MongoDB instance running on localhost, standard port 27017
