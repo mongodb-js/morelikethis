@@ -24,7 +24,7 @@ Make sure you have a MongoDB instance running on localhost, standard port 27017
 Assuming a database `products` and a collection `catalog`, run:
 
 ```
-mongodb-schema localhost:27017 products.catalog | morelikethis | mgenerate -n 1000
+mongodb-schema localhost:27017 products.catalog | morelikethis | mgeneratejs -n 1000
 ```
 
 This would generate 1000 more documents like the ones in the `products.catalog`
@@ -35,7 +35,7 @@ new collection `test.mycatalog` right away:
 
 
 ```
-mongodb-schema localhost:27017 products.catalog | morelikethis | mgenerate -n 1000 | mongoimport -d test -c mycatalog
+mongodb-schema localhost:27017 products.catalog | morelikethis | mgeneratejs -n 1000 | mongoimport -d test -c mycatalog
 ```
 
 ## License
